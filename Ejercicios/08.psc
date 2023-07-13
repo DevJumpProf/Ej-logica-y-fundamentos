@@ -1,4 +1,4 @@
-// 8/No todo van ser números. Escribe un código que dado un número nos devuelva true si es un número par y false si es un número impar. No usar condiconales. */
+// 8/No todo van ser números. Escribe un código que dado un número nos devuelva true si es un número par y false si es un número impar. No usar condicionales. */
 
 // Ayuda: 
 // numero: 50
